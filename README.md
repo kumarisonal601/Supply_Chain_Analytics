@@ -3,7 +3,7 @@
 
 This is a supply chain analytics project. In which conducted an analysis of supply chain inefficiencies, and developed informative dashboards to inform business stakeholders of potential issues, along with proposing strategic business enhancements.
 
-**Blog Post** : [Here](https://medium.com/@poojapatel26/moving-from-complexity-to-clarity-in-supply-chain-d9d7db66f776)
+
 
 **Tableau  Dashboard Link** :  [Here](https://public.tableau.com/app/profile/poojapatel26/viz/SupplyChainAnalytics_16964651727060/SupplyChainAnalytics)
 
